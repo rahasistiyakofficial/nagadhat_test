@@ -16,7 +16,8 @@ Run Apache & MYSQL in Xampp/Lagaron/Wampp or whatever You Choose
 
 
 now, run the project .
-php artisan ser
+
+ php artisan ser
 
 Finally, You Can Cheak The Task
 Thank you
